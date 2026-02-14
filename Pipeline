@@ -1,0 +1,28 @@
+# Viral protein dataset curation from publicly available phytoplankton virus genomes
+
+# Prediction of signal peptides and transmembrane domains using multiple tools:
+   - TMHMM
+   - deepTMHMM
+   - Phobius 
+
+# Construction of a high-confidence TM protein dataset by retaining proteins with true membrane-spanning domains
+
+# Orthogroup inference using OrthoFinder on:
+   - Complete viral proteomes
+   - TM-only protein datasets
+
+
+
+
+
+
+
+
+
+
+Tools and softwares-
+- Galaxy.eu
+- TMHMM
+- deepTMHMM
+- Phobius
+- OrthoFinder
